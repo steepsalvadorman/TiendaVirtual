@@ -4,6 +4,7 @@
     Author     : Steep Salvador
 --%>
 
+<%@page import="com.steep.utils.Utils"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@page session="true"%>
 <!DOCTYPE html>
